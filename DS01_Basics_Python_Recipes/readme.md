@@ -1,15 +1,14 @@
-# DS01_Basics_Python_Recipes
+# Chapter 1: Python Fundamentals for Data Science
 
-## 📌 Description
-Beginner Python challenges and solutions.
+## Objective
+Build foundational Python skills, including syntax, control flow, data structures, and function creation.
 
-## 🧠 Topics Covered
-- [ ] Description of the key concepts used here.
-- [ ] Link to notebook/script.
-- [ ] Visualizations or outputs.
+## Topics Covered
+- Variables & Data Types
+- Control Structures
+- Functions & Error Handling
+- Data Structures
+- Mini Project: Basic Data Explorer
 
-## 📁 Structure
-- `notebooks/`: Analysis and modeling notebooks
-- `data/`: Datasets or sample inputs
-- `scripts/`: Python scripts
-- `README.md`: Project documentation
+## How to Run
+Open the Jupyter Notebook `01-python-fundamentals.ipynb` and run each cell to follow the examples and explanations.
