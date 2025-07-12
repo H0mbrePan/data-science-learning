@@ -1,14 +1,24 @@
-# Chapter 1: Python Fundamentals for Data Science
+# DS01 - Basic Python Recipes 🐍
 
-## Objective
-Build foundational Python skills, including syntax, control flow, data structures, and function creation.
+Welcome to the **Python Basics Cookbook**!  
+This module contains a set of beginner-friendly coding challenges and scripts using Python.
 
-## Topics Covered
-- Variables & Data Types
-- Control Structures
-- Functions & Error Handling
-- Data Structures
-- Mini Project: Basic Data Explorer
+## 📌 Topics Covered
 
-## How to Run
-Open the Jupyter Notebook `01-python-fundamentals.ipynb` and run each cell to follow the examples and explanations.
+- Variables and Data Types
+- Control Flow (if, for, while)
+- Functions
+- Collections (List, Dict, Set)
+- File I/O
+- Error Handling
+
+## 🧪 How to Use
+
+Open each `.ipynb` notebook in JupyterLab and run the code. Try editing the recipes or creating variations!
+
+## 🚀 Example Projects
+
+Some fun challenges to try after:
+- Word Frequency Counter from a `.txt`
+- Rock, Paper, Scissors game with input()
+- Simple calculator using functions and conditionals
